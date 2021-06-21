@@ -1,5 +1,5 @@
-# sig-comp-project
-Project work for a signal compression course.
+# Signal compression project
+Project work for a signal compression course at Tampere University.
 
 The project work involves reading an image Image_X.png and compressing a block of that image with Golomb-Rice encoding, blockwise Golomb-Rice encoding and Huffman encoding (Huffman uses builtin functions).
 
